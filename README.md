@@ -39,5 +39,7 @@ Connectez-vous en tant qu'utilisateur enregistré pour retrouver vos playlists, 
     Déconnexion :
 À tout moment, vous pouvez vous déconnecter de votre compte pour sécuriser l'accès à vos informations. La déconnexion efface les informations de session en cours.
 
+## Webetu
+
 Url du projet du projet deploye sur Webetu (PAS D ACCES AUX BDS ASSOCIES : voir rapport) : https://webetu.iutnc.univ-lorraine.fr/~e1568u/DeefyApp/
 
