@@ -18,7 +18,7 @@ Les données utilisées sont celles disponibles sur Arches.
 ## Fonctionnalitées
 
     Créer une Playlist vide :
-Affiche un formulaire pour créer une playlist de zéro avec un nom. Elle sera ajoutée à vos playlists (stoqués en bd) et deviendra playlist courante.
+    Affiche un formulaire pour créer une playlist de zéro avec un nom. Elle sera ajoutée à vos playlists (stoqués en bd) et     deviendra playlist courante.
 
     Mes Playlists :
 Accédez à toutes vos playlists. Chaque playlist peut être éditée en un clic elle devient alors playlist courante, stockée en session.
