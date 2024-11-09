@@ -17,7 +17,7 @@ Les données utilisées sont celles disponibles sur Arches.
 
 Les mots de passes des utilisateurs sont je début de leur mail.
 
-## fonctionnalitées
+## Fonctionnalitées
 
     Créer une Playlist vide :
 Affiche un formulaire pour créer une playlist de zéro avec un nom. Elle sera ajoutée à vos playlists (stoqués en bd) et deviendra playlist courante.
