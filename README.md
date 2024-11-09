@@ -4,7 +4,7 @@ Deefy project in PHP
 
 ## DataBase
 - Pour ce connecter via les fichiers du dépôts faut ajouter un fichier deefy.db.ini pour créer la liaison avec votre base de donnée.
-exemple de fichier db.config.ini
+exemple de fichier deefy.db.ini
 
 ```ini
 [database]
