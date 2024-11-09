@@ -15,8 +15,6 @@ dbname = test
 
 Les données utilisées sont celles disponibles sur Arches.
 
-Les mots de passes des utilisateurs sont je début de leur mail.
-
 ## Fonctionnalitées
 
     Créer une Playlist vide :
