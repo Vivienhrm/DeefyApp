@@ -1,15 +1,17 @@
 # DeefyApp
 Deefy project in PHP
 
+
+## DataBase
 - Pour ce connecter via les fichiers du dépôts faut ajouter un fichier deefy.db.ini pour créer la liaison avec votre base de donnée.
 exemple de fichier db.config.ini
 
 ```ini
 [database]
-host = localhost
-user = root
-password = root
-dbname = test
+dsn = "mysql:host : localhost;port=3306;dbname=user UL"
+user = user UL
+pass = password pour votre bd
+
 ```
 
 Les données utilisées sont celles disponibles sur Arches.
@@ -36,3 +38,6 @@ Connectez-vous en tant qu'utilisateur enregistré pour retrouver vos playlists, 
 
     Déconnexion :
 À tout moment, vous pouvez vous déconnecter de votre compte pour sécuriser l'accès à vos informations. La déconnexion efface les informations de session en cours.
+
+Url du projet sur Webetu (PAS D ACCES AUX BDS ASSOCIES) : https://webetu.iutnc.univ-lorraine.fr/~e1568u/DeefyApp/
+
